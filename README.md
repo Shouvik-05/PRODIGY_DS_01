@@ -8,10 +8,15 @@ Dataset Used: world_population.csv
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable using a dataset of your choice.
 
 # 📁 Files Included
-File Name	Description
-task01_population_analysis.py	Main Python script with interactive input and charts
-world_population.csv	Dataset containing world population statistics
-README.txt or README.md	This document with description and usage steps
+
+## File Name	Description
+
+| File                          | Description                                  |
+|-------------------------------|----------------------------------------------|
+| `world_population.csv`        | Dataset of countries with population stats   |
+| `task01_population_analysis.py` | Python script with interactive visualization |
+| `README.md`                   | Project documentation                        |
+
 
 # 🚀 Features of the Script
 Displays valid column options before asking for input
@@ -56,3 +61,6 @@ Enter the column for Bar Chart Y-axis (value): 2022 Population
 Enter the column for Histogram: 2022 Population
 ```
 
+# 🧑‍💻 Author
+Shouvik Bhattacharjee
+Data Science Intern, Prodigy Infotech
